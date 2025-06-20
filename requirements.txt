@@ -1,7 +1,8 @@
-pandas
-numpy
-scikit-learn
 streamlit
+pandas
+scikit-learn
+xgboost
 joblib
 shap
+seaborn
 matplotlib
